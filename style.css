@@ -15,8 +15,19 @@ header {
 }
 
 .hero {
+    background-image: url("./hero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
     text-align: center;
-    padding: 50px;
+    position: relative;
 }
 
 .players {
