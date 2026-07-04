@@ -120,7 +120,7 @@ nav a {
     transition:0.3s;
 }
 .hero {
-    background: url("images/hero.jpg") no-repeat center center;
+    background: url("hero.jpg") no-repeat center center;
     background-size: cover;
     height: 500px;
     display: flex;
